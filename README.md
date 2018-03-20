@@ -1,1 +1,3 @@
 # JavaScript-introduction-course
+
+(FRENCH)
